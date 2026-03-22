@@ -1,0 +1,11 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep learning
+torch
+
+# Notebooks
+jupyter
